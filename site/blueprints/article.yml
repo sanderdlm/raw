@@ -7,11 +7,6 @@ fields:
     label: Title
     type:  title
     
-  coverimage:
-    label: Cover Image
-    type: image
-    width: 1/2
-    
   date:
     icon: calendar
     label: Date

@@ -1,14 +1,12 @@
-Title: Home
+Title: Hi omnes lingu ā
+
+----
+
+Date: 2018-01-21
 
 ----
 
 Text: 
-
-- Follow me on twitter (twitter: @dreadnip)
-- Check out my Kirby (link: http://www.getkirby-themes.com/authors/dreadnip text: themes)
-- Some more filler points
-- We need some homepage content to show off
-- Raw HTML rocks
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -19,4 +17,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**Back to basics baby**
+----
+
+Coverimage: 
